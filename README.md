@@ -1,4 +1,7 @@
-# PiBench — C++ Algorithm Benchmarking Platform
+# PiBench — C++ Algorithm Benchmarking Platform (Version 3.3.b)
+<img width="1226" height="661" alt="Screenshot 2026-11-07 014115" src="https://github.com/user-attachments/assets/d9f4d1e0-3899-4707-936c-2d04272f0365" />
+
+<img width="598" height="290" alt="image" src="https://github.com/user-attachments/assets/f227935c-9c61-49dd-8e7b-6a6945e3fe0c" />
 
 A web-based C++ benchmarking environment designed to execute code, run multiple test cases, and analyse search algorithm performance against a large dataset of Pi digits.
 
@@ -168,11 +171,9 @@ git --version
 ### 1. Clone the Repository
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/PiBench.git
+git clone https://github.com/anasjawed283/PiBench.git
 cd PiBench
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Set Up the Pi Dataset
 
@@ -197,8 +198,8 @@ pi.txt
 **Important:**
 
 - The dataset is not included in this GitHub repository.
-- Obtain or generate your own dataset.
-- Ensure the file contains the expected continuous sequence of Pi digits.
+- BILLION DIGITS OF PI
+  - https://www.kaggle.com/datasets/suhails/pie-1-million-digits?resource=download
 - The current search implementation assumes the file contains digits without whitespace or separators.
 - Keep the file in the exact location expected by the application.
 
@@ -406,20 +407,8 @@ Contributions, suggestions, and improvements are welcome.
 4. Test your implementation locally.
 5. Submit a pull request with a description of the changes.
 
----
-
-## License
-
-No open-source licence has been specified yet.
-
-Until a licence is added, the repository should not be assumed to grant permission to reuse, modify, or redistribute its contents.
-
----
-
 ## Author
 
-**PiBench**
-
-A C++ algorithm benchmarking project exploring the practical performance of string-search algorithms against large-scale numerical datasets.
+**Anas Jawed**
 
 Built with React, FastAPI, Python, and C++17.
