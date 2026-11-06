@@ -1,0 +1,4 @@
+Algorithm,Target,Position,BytesProcessed,Iterations,AverageMs,MinMs,MaxMs
+Naive,999999999,564665207,564665216,5,2253.3592,2235.175,2275.267
+Algorithm,Target,Position,BytesProcessed,Iterations,AverageMs,MinMs,MaxMs
+Naive,123456789012345,-1,1000000002,5,4382.286,4366.16,4400.618
